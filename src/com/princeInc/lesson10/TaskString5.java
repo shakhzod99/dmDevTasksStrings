@@ -8,7 +8,7 @@ import java.util.Arrays;
  */
 public class TaskString5 {
     public static void main(String[] args) {
-        String value = "234567890";
+        String value = "1234567890";
         int n = 3;
         String[] result = split(value, n);
         System.out.println(Arrays.toString(result));
